@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaikishansuthar&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaikishansuthar&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=jaikishansuthar&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaikishansuthar&theme=tokyonight" width="34%" />
 </p>
 
 <br>
