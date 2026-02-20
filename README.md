@@ -15,7 +15,7 @@
 - 📫 Reach me at: **jaysuthar597@gmail.com**
 - 🌐 Portfolio: https://jaicode.netlify.app/
 
----
+
 
 ## 🎯 Career Focus
 
@@ -24,7 +24,7 @@
 ✔ UI/UX Focused Design  
 ✔ Modern Web Architecture  
 
----
+
 
 ## 🚀 Skills
 
@@ -38,12 +38,10 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
   
-
-
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=jaikishansuthar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />   -->
   <img src="https://streak-stats.demolab.com?user=jaikishansuthar&theme=tokyonight&hide_border=true" width="50%" />
@@ -51,14 +49,13 @@
 </p>
 
 
----
 
 ## 🌍 Languages
 
 - 🇮🇳 Hindi
 - 🇬🇧 English
 
----
+
 
 ## 🤝 Connect With Me
 
@@ -71,7 +68,7 @@
 </a>
 </p>
 
----
+
 
 ⭐ "Code. Create. Innovate."
 
