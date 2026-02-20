@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai</h1>
 <h3 align="center">🌐 Passionate Web Developer | Full Stack Learner | Creative Builder</h3>
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+%7C+Next.js+%7C+Expo;Creative+Thinker+%26+Problem+Solver;Blender+3D+Explorer" />
