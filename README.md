@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jai</h1>
+<h1 align="center"> 👋 Hi, I'm Jai</h1>
 <h3 align="center">🌐 Passionate Web Developer | Full Stack Learner | Creative Builder</h3>
 
 
