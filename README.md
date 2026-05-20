@@ -15,7 +15,7 @@
 - 🎨 I explore 3D creativity using Blender
 - 🌱 Always learning and improving
 - 📫 Email: **jaysuthar597@gmail.com**
-- 🌐 Portfolio: https://jaicode.netlify.app/
+- 🌐 Portfolio: https://jaikishan.vercel.app/
 
 <br>
 
